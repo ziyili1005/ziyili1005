@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **ziyili1005/ziyili1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Zi-Yi Li 👋
+
+🎓 B.S. in Computer Science, National Dong Hwa University  
+💡 Passionate about AI, Computer Vision, and Full-Stack Development
+
+## 🗂️ Portfolio by Category
+
+- 🤖 Artificial Intelligence  
+- 🧠 Deep Learning  
+- 📸 Computer Vision  
+- 📱 Mobile App Development  
+- 📊 Data Science & Big Data  
+- 🕶️ Virtual Reality & 3D Modeling  
+- 🖼️ Image Processing  
+
+Explore my projects in the pinned repositories or see details below 👇
